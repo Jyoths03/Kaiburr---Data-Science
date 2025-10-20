@@ -1,0 +1,49 @@
+text,label_true,pred_logreg,pred_nb
+credit report error example number 20,0,0,0
+home loan escrow issue example number 10,3,3,3
+dispute incorrect item example number 10,0,0,0
+mortgage late payment example number 38,3,3,3
+home loan escrow issue example number 0,3,3,3
+home mortgage refinance example number 19,3,3,3
+auto loan application example number 22,2,2,2
+mortgage late payment example number 32,3,3,3
+home mortgage refinance example number 29,3,3,3
+credit bureau wrong balance example number 51,0,0,0
+dispute incorrect item example number 28,0,0,0
+collection notice example number 39,1,1,1
+credit report error example number 18,0,0,0
+personal loan interest example number 32,2,2,2
+collection notice example number 16,1,1,1
+owed money collection example number 34,1,1,1
+collection notice example number 3,1,1,1
+loan payment issue example number 11,2,2,2
+owed money collection example number 6,1,1,1
+home mortgage refinance example number 24,3,3,3
+dispute incorrect item example number 22,0,0,0
+dispute incorrect item example number 59,0,0,0
+credit report error example number 7,0,0,0
+loan payment issue example number 8,2,2,2
+loan payment issue example number 27,2,2,2
+debt collector harassment example number 46,1,1,1
+owed money collection example number 1,1,1,1
+credit report error example number 42,0,0,0
+personal loan interest example number 36,2,2,2
+collection notice example number 49,1,1,1
+debt collector harassment example number 7,1,1,1
+home mortgage refinance example number 43,3,3,3
+loan payment issue example number 7,2,2,2
+auto loan application example number 6,2,2,2
+loan payment issue example number 40,2,2,2
+credit bureau wrong balance example number 49,0,0,0
+credit bureau wrong balance example number 38,0,0,0
+dispute incorrect item example number 14,0,0,0
+debt collector harassment example number 43,1,1,1
+home mortgage refinance example number 27,3,3,3
+mortgage late payment example number 26,3,3,3
+auto loan application example number 23,2,2,2
+auto loan application example number 47,2,2,2
+home mortgage refinance example number 58,3,3,3
+debt collector harassment example number 35,1,1,1
+debt collector harassment example number 13,1,1,1
+loan payment issue example number 33,2,2,2
+home loan escrow issue example number 59,3,3,3

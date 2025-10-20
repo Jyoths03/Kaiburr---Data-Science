@@ -1,0 +1,241 @@
+text,label
+dispute incorrect item example number 0,0
+credit report error example number 1,0
+credit report error example number 2,0
+dispute incorrect item example number 3,0
+credit bureau wrong balance example number 4,0
+credit report error example number 5,0
+credit report error example number 6,0
+credit report error example number 7,0
+dispute incorrect item example number 8,0
+credit report error example number 9,0
+dispute incorrect item example number 10,0
+dispute incorrect item example number 11,0
+dispute incorrect item example number 12,0
+credit report error example number 13,0
+dispute incorrect item example number 14,0
+credit bureau wrong balance example number 15,0
+credit report error example number 16,0
+credit report error example number 17,0
+credit report error example number 18,0
+credit report error example number 19,0
+credit report error example number 20,0
+dispute incorrect item example number 21,0
+dispute incorrect item example number 22,0
+credit report error example number 23,0
+dispute incorrect item example number 24,0
+credit report error example number 25,0
+dispute incorrect item example number 26,0
+dispute incorrect item example number 27,0
+dispute incorrect item example number 28,0
+dispute incorrect item example number 29,0
+credit bureau wrong balance example number 30,0
+credit report error example number 31,0
+credit bureau wrong balance example number 32,0
+dispute incorrect item example number 33,0
+credit bureau wrong balance example number 34,0
+credit report error example number 35,0
+credit report error example number 36,0
+dispute incorrect item example number 37,0
+credit bureau wrong balance example number 38,0
+credit bureau wrong balance example number 39,0
+credit bureau wrong balance example number 40,0
+credit report error example number 41,0
+credit report error example number 42,0
+credit bureau wrong balance example number 43,0
+credit report error example number 44,0
+credit report error example number 45,0
+credit bureau wrong balance example number 46,0
+credit report error example number 47,0
+credit bureau wrong balance example number 48,0
+credit bureau wrong balance example number 49,0
+dispute incorrect item example number 50,0
+credit bureau wrong balance example number 51,0
+credit report error example number 52,0
+dispute incorrect item example number 53,0
+credit bureau wrong balance example number 54,0
+dispute incorrect item example number 55,0
+credit report error example number 56,0
+credit bureau wrong balance example number 57,0
+credit report error example number 58,0
+dispute incorrect item example number 59,0
+collection notice example number 0,1
+owed money collection example number 1,1
+owed money collection example number 2,1
+collection notice example number 3,1
+owed money collection example number 4,1
+debt collector harassment example number 5,1
+owed money collection example number 6,1
+debt collector harassment example number 7,1
+debt collector harassment example number 8,1
+owed money collection example number 9,1
+debt collector harassment example number 10,1
+collection notice example number 11,1
+debt collector harassment example number 12,1
+debt collector harassment example number 13,1
+debt collector harassment example number 14,1
+collection notice example number 15,1
+collection notice example number 16,1
+collection notice example number 17,1
+owed money collection example number 18,1
+collection notice example number 19,1
+debt collector harassment example number 20,1
+collection notice example number 21,1
+collection notice example number 22,1
+debt collector harassment example number 23,1
+owed money collection example number 24,1
+collection notice example number 25,1
+owed money collection example number 26,1
+owed money collection example number 27,1
+owed money collection example number 28,1
+debt collector harassment example number 29,1
+owed money collection example number 30,1
+owed money collection example number 31,1
+debt collector harassment example number 32,1
+owed money collection example number 33,1
+owed money collection example number 34,1
+debt collector harassment example number 35,1
+debt collector harassment example number 36,1
+collection notice example number 37,1
+collection notice example number 38,1
+collection notice example number 39,1
+owed money collection example number 40,1
+owed money collection example number 41,1
+owed money collection example number 42,1
+debt collector harassment example number 43,1
+owed money collection example number 44,1
+collection notice example number 45,1
+debt collector harassment example number 46,1
+debt collector harassment example number 47,1
+debt collector harassment example number 48,1
+collection notice example number 49,1
+collection notice example number 50,1
+collection notice example number 51,1
+debt collector harassment example number 52,1
+debt collector harassment example number 53,1
+owed money collection example number 54,1
+owed money collection example number 55,1
+collection notice example number 56,1
+debt collector harassment example number 57,1
+owed money collection example number 58,1
+collection notice example number 59,1
+personal loan interest example number 0,2
+loan payment issue example number 1,2
+personal loan interest example number 2,2
+auto loan application example number 3,2
+personal loan interest example number 4,2
+auto loan application example number 5,2
+auto loan application example number 6,2
+loan payment issue example number 7,2
+loan payment issue example number 8,2
+loan payment issue example number 9,2
+personal loan interest example number 10,2
+loan payment issue example number 11,2
+loan payment issue example number 12,2
+personal loan interest example number 13,2
+loan payment issue example number 14,2
+personal loan interest example number 15,2
+personal loan interest example number 16,2
+auto loan application example number 17,2
+auto loan application example number 18,2
+loan payment issue example number 19,2
+personal loan interest example number 20,2
+auto loan application example number 21,2
+auto loan application example number 22,2
+auto loan application example number 23,2
+auto loan application example number 24,2
+loan payment issue example number 25,2
+auto loan application example number 26,2
+loan payment issue example number 27,2
+personal loan interest example number 28,2
+loan payment issue example number 29,2
+auto loan application example number 30,2
+personal loan interest example number 31,2
+personal loan interest example number 32,2
+loan payment issue example number 33,2
+personal loan interest example number 34,2
+loan payment issue example number 35,2
+personal loan interest example number 36,2
+loan payment issue example number 37,2
+auto loan application example number 38,2
+loan payment issue example number 39,2
+loan payment issue example number 40,2
+auto loan application example number 41,2
+loan payment issue example number 42,2
+loan payment issue example number 43,2
+personal loan interest example number 44,2
+loan payment issue example number 45,2
+personal loan interest example number 46,2
+auto loan application example number 47,2
+personal loan interest example number 48,2
+personal loan interest example number 49,2
+auto loan application example number 50,2
+personal loan interest example number 51,2
+auto loan application example number 52,2
+loan payment issue example number 53,2
+loan payment issue example number 54,2
+personal loan interest example number 55,2
+loan payment issue example number 56,2
+auto loan application example number 57,2
+loan payment issue example number 58,2
+auto loan application example number 59,2
+home loan escrow issue example number 0,3
+mortgage late payment example number 1,3
+home loan escrow issue example number 2,3
+home loan escrow issue example number 3,3
+home loan escrow issue example number 4,3
+home mortgage refinance example number 5,3
+home mortgage refinance example number 6,3
+mortgage late payment example number 7,3
+home mortgage refinance example number 8,3
+home loan escrow issue example number 9,3
+home loan escrow issue example number 10,3
+home mortgage refinance example number 11,3
+home loan escrow issue example number 12,3
+mortgage late payment example number 13,3
+mortgage late payment example number 14,3
+home mortgage refinance example number 15,3
+home mortgage refinance example number 16,3
+mortgage late payment example number 17,3
+mortgage late payment example number 18,3
+home mortgage refinance example number 19,3
+home mortgage refinance example number 20,3
+home mortgage refinance example number 21,3
+home loan escrow issue example number 22,3
+home mortgage refinance example number 23,3
+home mortgage refinance example number 24,3
+home loan escrow issue example number 25,3
+mortgage late payment example number 26,3
+home mortgage refinance example number 27,3
+home loan escrow issue example number 28,3
+home mortgage refinance example number 29,3
+home mortgage refinance example number 30,3
+home loan escrow issue example number 31,3
+mortgage late payment example number 32,3
+home loan escrow issue example number 33,3
+home mortgage refinance example number 34,3
+mortgage late payment example number 35,3
+home loan escrow issue example number 36,3
+home loan escrow issue example number 37,3
+mortgage late payment example number 38,3
+home mortgage refinance example number 39,3
+home loan escrow issue example number 40,3
+home loan escrow issue example number 41,3
+home loan escrow issue example number 42,3
+home mortgage refinance example number 43,3
+home loan escrow issue example number 44,3
+mortgage late payment example number 45,3
+mortgage late payment example number 46,3
+home loan escrow issue example number 47,3
+home loan escrow issue example number 48,3
+mortgage late payment example number 49,3
+mortgage late payment example number 50,3
+home loan escrow issue example number 51,3
+mortgage late payment example number 52,3
+home mortgage refinance example number 53,3
+home mortgage refinance example number 54,3
+home mortgage refinance example number 55,3
+home mortgage refinance example number 56,3
+mortgage late payment example number 57,3
+home mortgage refinance example number 58,3
+home loan escrow issue example number 59,3

@@ -1,0 +1,5 @@
+Task 5 summary
+Samples: 240
+Train/Test split: 192/48
+LogReg accuracy: 1.0000
+NB accuracy: 1.0000
